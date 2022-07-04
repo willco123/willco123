@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Will Cowne, I am a self-taught programmer and have been doing so for just over a year.
-My main goal is to development as much skills as possible around web-development, and so far I have been using Javascript, specifically Node & Express to work on the back-end side of things.
+My main goal is to gain as much skills as possible around web-development, and so far I have been using Javascript, specifically Node & Express to work on the back-end side of things.
 I am also looking into using React to delve into the front-end side, however this is mainly for supporting knowledge to aid in the back-end side of web-development which is my main focus.
 I am also working on learning cryptopgraphy using Python!
 <!--
