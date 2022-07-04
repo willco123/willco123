@@ -4,7 +4,7 @@ My main goal is to gain as much skills as possible around web-development, and s
 I am also looking into using React to delve into the front-end side, however this is mainly for supporting knowledge to aid in the back-end side of web-development which is my main focus.
 I am also working on learning cryptopgraphy using Python!
 
-##Tech
+### Tech
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <!--
 **willco123/willco123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
