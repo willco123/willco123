@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Will Cowne, I am a self-taught programmer and have been doing so just under two years.
+
 My current skills are focused around building REST API's! Which I have built through NodeJS, using Express/Jest/MySQL and other technologies. I am currently working on learning Typescript to further add to my skillset and create more robust code.
 I am also looking into using React to delve into the front-end side and learning cryptopgraphy using Python!
 
