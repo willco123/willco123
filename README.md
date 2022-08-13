@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Will Cowne, I am a self-taught programmer and have been doing so for just over a year.
-My main goal is to gain as much skills as possible around web-development, and so far I have been using Javascript, specifically Node & Express to work on the back-end side of things.
-I am also looking into using React to delve into the front-end side, however this is mainly for supporting knowledge to aid in the back-end side of web-development which is my main focus.
-I am also working on learning cryptopgraphy using Python!
+I'm Will Cowne, I am a self-taught programmer and have been doing so just under two years.
+My current skills are focused around building REST API's! Which I have built through NodeJS, using Express/Jest/MySQL and other technologies. I am currently working on learning Typescript to further add to my skillset and create more robust code.
+I am also looking into using React to delve into the front-end side and learning cryptopgraphy using Python!
 
 ### Tech
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
