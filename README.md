@@ -3,7 +3,6 @@ I'm Will Cowne, I am a self-taught programmer and have been doing so just under 
 My current skills are focused around building REST API's! Which I have built through NodeJS, using Express/Jest/MySQL and other technologies. I am currently working on learning Typescript to further add to my skillset and create more robust code.
 I am also looking into using React to delve into the front-end side and learning cryptopgraphy using Python!
 
-### Tech
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -14,6 +13,7 @@ I am also looking into using React to delve into the front-end side and learning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **willco123/willco123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
