@@ -1,7 +1,6 @@
 ### Hi there 👋
-I'm Will Cowne, I am a self-taught programmer and have been doing so just under two years.
-My current skills are focused around building REST API's! Which I have built through NodeJS, using Express/Jest/MySQL and other technologies. I am currently working on learning Typescript to further add to my skillset and create more robust code.
-I am also looking into using React to delve into the front-end side and learning cryptopgraphy using Python!
+I'm Will Cowne, I am a self-taught programmer and have been doing so just under two years, using Typescript/Javascript.
+My current skills are focused around web-development. Which include building REST API's through NodeJS, using Express/Jest/MySQL/NoSQL and other technologies, along with ReactJS for the front-end side of things.
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
